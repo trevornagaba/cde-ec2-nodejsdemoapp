@@ -1,0 +1,22 @@
+{
+  "name": "cde-ec2-nodejswebserver",
+  "version": "1.0.0",
+  "description": "cde-ec2-nodejswebserver",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevornagaba/cde-ec2-nodejswebserver.git"
+  },
+  "author": "Nagaba Trevor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevornagaba/cde-ec2-nodejswebserver/issues"
+  },
+  "homepage": "https://github.com/trevornagaba/cde-ec2-nodejswebserver#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
